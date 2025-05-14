@@ -105,3 +105,6 @@ pip install pandas numpy scikit-learn nltk matplotlib
 * Social media sentiment monitoring
 * Simple feedback analysis
 
+output
+
+![Image](https://github.com/user-attachments/assets/a9c5530e-15e8-4d9f-88c7-468c66ffb102)
